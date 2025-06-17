@@ -14,11 +14,44 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="Файлы ресурсов\LR1">
-      <UniqueIdentifier>{b635760e-7d4b-4262-91a6-5ca32ae59a67}</UniqueIdentifier>
+      <UniqueIdentifier>{8f1cd6d7-e268-4a87-9842-b91e99dcd83e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\LR2">
+      <UniqueIdentifier>{81672d2e-ba43-4660-8630-a82614d7b1bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\LR3">
+      <UniqueIdentifier>{7a2a356b-2fba-46cc-b1e8-87b86fc3e2d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\LR4">
+      <UniqueIdentifier>{7a41bcde-d532-4918-9873-8d24ac98ab71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\LR5">
+      <UniqueIdentifier>{ff256fff-1549-4e9a-9232-52f6c72e8a19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\LR6">
+      <UniqueIdentifier>{f3ba6853-f608-49f4-88c8-8728b33b4394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\LR7">
+      <UniqueIdentifier>{4a8948f7-a84c-475d-934c-f6b24c2efdbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\LR8">
+      <UniqueIdentifier>{3adefe04-be11-46c5-bae4-e4905d8cfc00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\LR9">
+      <UniqueIdentifier>{bbea2478-2a26-42fa-9284-16c805719e3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\LR10">
+      <UniqueIdentifier>{94f55e09-6f5e-4edb-8621-b62ea9d4b5e6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Example1.cpp">
+    <ClCompile Include="LR1\Example3.cpp">
+      <Filter>Файлы ресурсов\LR1</Filter>
+    </ClCompile>
+    <ClCompile Include="LR1\Example1.cpp">
+      <Filter>Файлы ресурсов\LR1</Filter>
+    </ClCompile>
+    <ClCompile Include="LR1\Example2.cpp">
       <Filter>Файлы ресурсов\LR1</Filter>
     </ClCompile>
   </ItemGroup>
